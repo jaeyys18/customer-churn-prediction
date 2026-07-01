@@ -1,0 +1,12 @@
+Added the requirements.txt file containing all Python dependencies required to run the Customer Churn Prediction project.
+
+Includes:
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+This allows anyone to recreate the project environment using:
+pip install -r requirements.txt
